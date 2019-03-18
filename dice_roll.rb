@@ -8,7 +8,7 @@ end
 
 def roll2
   rol = []
-  rol.new(6) {rand(1..6)}
+  Array.new(6) {rand(1..6)}
   puts rol
 end
 
