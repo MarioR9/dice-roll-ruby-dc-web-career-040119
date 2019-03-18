@@ -7,6 +7,9 @@ def roll
 end
 
 def roll2
-  
+  rolls = []
+    100.times do
+      rolls << roll
+    end
 end
 
