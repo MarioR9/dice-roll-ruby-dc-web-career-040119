@@ -11,6 +11,7 @@ def roll2
     100.times do
       rolls << roll
     end
+    puts roll
 end
 
 roll2
