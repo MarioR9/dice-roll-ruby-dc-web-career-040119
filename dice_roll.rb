@@ -7,9 +7,6 @@ def roll
 end
 
 def roll2
-  rolls = Array.new(1) {Array.new(6)}
-  puts rolls
+  
 end
 
-
-rolls
