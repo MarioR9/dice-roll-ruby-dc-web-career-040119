@@ -13,3 +13,4 @@ def roll2
     end
 end
 
+roll2
