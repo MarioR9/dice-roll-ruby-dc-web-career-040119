@@ -7,11 +7,9 @@ def roll
 end
 
 def roll2
-  rolls = []
-    10.times do
-      rolls << roll
-    end
-    puts rolls
+  rol = []
+  rol.new(6) {rand(1..6)}
+  puts rol
 end
 
 roll2
