@@ -6,4 +6,8 @@ def roll
  return rand(1..6)
 end
 
+def roll2
+  
+end
+
 roll
