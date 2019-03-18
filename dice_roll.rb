@@ -4,6 +4,7 @@
 
 def roll
  roll1 rand(1..6)
- 
  return puts roll1.to_i
 end
+
+roll1
