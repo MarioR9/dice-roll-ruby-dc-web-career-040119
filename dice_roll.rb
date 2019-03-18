@@ -5,3 +5,11 @@
 def roll
  return rand(1..6)
 end
+
+def roll2
+  rolls = []
+    10.times do
+      rolls << roll
+    end
+    puts roll
+end
