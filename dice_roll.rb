@@ -11,7 +11,7 @@ def roll2
     10.times do
       rolls << roll
     end
-    puts roll
+   
 end
 
 roll2
