@@ -13,3 +13,5 @@ def roll2
     end
     puts roll
 end
+
+roll2
