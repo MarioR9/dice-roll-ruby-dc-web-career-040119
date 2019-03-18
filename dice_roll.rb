@@ -7,7 +7,7 @@ def roll
 end
 
 def roll2
-  Array.new(6) {rand(1..6)}
+ puts Array.new(6) {rand(1..6)}
 end
 
 roll2
