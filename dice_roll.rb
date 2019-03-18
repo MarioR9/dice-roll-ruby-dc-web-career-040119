@@ -7,4 +7,4 @@ def roll
  return puts roll1.to_i
 end
 
-roll1()
+roll
