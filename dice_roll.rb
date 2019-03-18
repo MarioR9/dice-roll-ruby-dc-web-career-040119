@@ -2,13 +2,6 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-
-def roll2
-  rolls = []
-    10.times do
-      rolls << roll
-    end
-    puts roll
+def roll
+ return rand(1..6)
 end
-
-roll2
