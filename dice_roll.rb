@@ -11,5 +11,5 @@ def roll2
   puts rolls
 end
 
-roll
+
 rolls
