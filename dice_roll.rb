@@ -5,9 +5,7 @@
 
 
 def roll2
-  rol = []
   Array.new(6) {rand(1..6)}
-  return puts rol
 end
 
 roll2
