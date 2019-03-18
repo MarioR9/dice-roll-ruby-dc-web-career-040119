@@ -8,7 +8,7 @@ end
 
 def roll2
   rolls = []
-    100.times do
+    10.times do
       rolls << roll
     end
     puts roll
