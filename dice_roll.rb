@@ -2,7 +2,9 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-
+def roll
+ return rand(1..6)
+end
 
 def roll2
   Array.new(6) {rand(1..6)}
